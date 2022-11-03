@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Pupli This is first Pipeline</h1>
+   <h1> I love pupla</h1>
 
   
 </form>
